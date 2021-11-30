@@ -1,0 +1,32 @@
+.contact {
+
+    font-size: 13px;
+    line-height: 1.5em;
+    .type_delivery {
+        width: 240px;
+        margin-right: 50px;
+
+        .hero_delivery {
+            width: 220px;
+            height: 100px;
+        }
+        h3 {
+            padding-top: 10px;
+        }
+
+        ul {
+            margin-left: 25px;
+            list-style-image: url("./../../images/open.png");
+
+            li {
+                margin-bottom:0.5em;
+                text-indent:0.4em;
+            }
+        }
+    }
+    time {
+        font-style: italic;
+    }
+
+
+}
